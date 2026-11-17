@@ -11,7 +11,7 @@ Imagens de testes no Insomnia 13.4.0 e no painel do Ubuntu
 <img width="1919" height="1079" alt="Captura de tela 2026-11-17 155404" src="https://github.com/user-attachments/assets/d5c6f727-c0a5-4873-951f-7e7e2940f6d5" />
 <img width="1919" height="1079" alt="Captura de tela 2026-11-17 155304" src="https://github.com/user-attachments/assets/85f1f548-d871-4bf8-ade4-1d00f7db89cd" />
 <img width="1918" height="1079" alt="Captura de tela 2026-11-17 155018" src="https://github.com/user-attachments/assets/ccac7c0b-780c-4454-a0bb-78100c369e0a" />
-buntu <img width="1263" height="706" alt="Captura de tela 2026-11-17 154950" src="https://github.com/user-attachments/assets/70f7c559-47b8-4fea-a102-7b2ee3674ca7" />
+<img width="1263" height="706" alt="Captura de tela 2026-11-17 154950" src="https://github.com/user-attachments/assets/70f7c559-47b8-4fea-a102-7b2ee3674ca7" />
 <img width="1262" height="709" alt="Captura de tela 2026-11-17 154549" src="https://github.com/user-attachments/assets/43985b08-0e7e-4920-b286-3aa42071a46a" />
 <img width="1260" height="709" alt="Captura de tela 2026-11-17 154522" src="https://github.com/user-attachments/assets/9a96ec1b-da58-4658-8b12-22a462d1adcf" />
 <img width="1264" height="711" alt="Captura de tela 2026-11-17 154459" src="https://github.com/user-attachments/assets/aa7c1bd6-bd66-464b-80ba-75ff8fcfa97c" />
@@ -37,16 +37,4 @@ buntu <img width="1263" height="706" alt="Captura de tela 2026-11-17 154950" src
 <img width="1919" height="1079" alt="Captura de tela 2026-11-17 142341" src="https://github.com/user-attachments/assets/2355952e-6434-4891-a3e5-ac075d8a6d52" />
 <img width="1114" height="617" alt="Captura de tela 2026-11-17 142014" src="https://github.com/user-attachments/assets/c5fac5bd-e91a-4f63-8def-3022a05df7be" />
 <img width="1437" height="898" alt="Captura de tela 2026-11-17 141054" src="https://github.com/user-attachments/assets/0a765054-d280-45db-a41e-9efb0fe02c89" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 113605" src="https://github.com/user-attachments/assets/a327a349-a990-4c21-be3c-6049e9f42b7a" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 113448" src="https://github.com/user-attachments/assets/7611ba47-809b-4ee5-b22c-70b963e280e7" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 113303" src="https://github.com/user-attachments/assets/aed9b1ac-c5db-4928-92fd-7a91e35f9881" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 113226" src="https://github.com/user-attachments/assets/395c356a-4daf-4071-82ef-bf133b988d20" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 113214" src="https://github.com/user-attachments/assets/99446b6c-c3d7-4e99-ba2b-2c9d7c785c09" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 113201" src="https://github.com/user-attachments/assets/5f5e6ccf-9137-4952-b06e-6d2f6567d47e" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 113115" src="https://github.com/user-attachments/assets/9a144c79-825f-44fd-871e-b580516b081b" />
 <img width="1919" height="1079" alt="Captura de tela 2026-11-17 160011" src="https://github.com/user-attachments/assets/52ba3989-cde7-44e9-aefd-ae86705d6d7b" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 112944" src="https://github.com/user-attachments/assets/f76e6ed6-7fbe-4e95-8079-fc23ccc9849a" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 112851" src="https://github.com/user-attachments/assets/f7366438-34ca-4b55-a922-8015a23427aa" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 112641" src="https://github.com/user-attachments/assets/c485e11a-c91f-4b68-9e83-544e9a15ebf0" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 112528" src="https://github.com/user-attachments/assets/5f780c4d-3cc2-484a-8e09-5a1d18822210" />
-<img width="1919" height="1079" alt="Captura de tela 2026-11-05 113024" src="https://github.com/user-attachments/assets/c57d436d-18bf-4816-a357-536ec3bc9930" />
