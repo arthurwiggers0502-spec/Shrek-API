@@ -1,6 +1,30 @@
 # Shrek-API
-Shrek-API, é uma API do Shrek, onde contem o CRUD e tudo que à de bom!<br>
-Imagens de testes no Insomnia 13.4.0 e no painel do Ubuntu<br>
+## Sobre o projeto
+
+O **Shrek-API** é um projeto de desenvolvimento de uma API REST inspirada no universo de Shrek, criada com o objetivo de praticar e demonstrar conhecimentos em desenvolvimento de Back-End, integração com banco de dados e arquitetura de software.
+
+A API foi desenvolvida utilizando **PHP 8.5, Slim Framework 4 e PostgreSQL**, permitindo o gerenciamento de informações sobre personagens e filmes da franquia.
+
+### Tecnologias utilizadas
+- PHP 8.5
+- Slim Framework 4
+- PostgreSQL
+- Composer
+- Insomnia
+- Git e GitHub
+
+### Funcionalidades implementadas
+- Cadastro, consulta, atualização e exclusão de personagens.
+- Cadastro, consulta, atualização e exclusão de filmes.
+- Validação dos dados recebidos pela API.
+- Comunicação com banco de dados PostgreSQL.
+- Organização do código utilizando Controllers, Services e Repositories.
+
+### Testes
+
+As requisições foram realizadas e testadas utilizando o **Insomnia 13.4.0**, verificando o funcionamento dos endpoints e as respostas HTTP da API.
+
+Abaixo estão algumas imagens que demonstram o desenvolvimento, a estrutura do projeto e os testes realizados.
 <img width="1903" height="1079" alt="Captura de tela 2026-11-17 155908" src="https://github.com/user-attachments/assets/bca5f186-46f6-4932-ab40-6b72fbdcef50" />
 <img width="1113" height="624" alt="Captura de tela 2026-11-17 155811" src="https://github.com/user-attachments/assets/5e35c9be-fc30-4830-89d8-08f290c4f87d" />
 <img width="1261" height="693" alt="Captura de tela 2026-11-17 155622" src="https://github.com/user-attachments/assets/f37ec6e0-484b-4975-85e6-1388f5dc641e" />
