@@ -1,6 +1,6 @@
 # Shrek-API
 Shrek-API, é uma API do Shrek, onde contem o CRUD e tudo que à de bom!<br>
-Imagens de testes no Insomnia 13.4.0 e no painel do Ubuntu
+Imagens de testes no Insomnia 13.4.0 e no painel do Ubuntu<br>
 <img width="1903" height="1079" alt="Captura de tela 2026-11-17 155908" src="https://github.com/user-attachments/assets/bca5f186-46f6-4932-ab40-6b72fbdcef50" />
 <img width="1113" height="624" alt="Captura de tela 2026-11-17 155811" src="https://github.com/user-attachments/assets/5e35c9be-fc30-4830-89d8-08f290c4f87d" />
 <img width="1261" height="693" alt="Captura de tela 2026-11-17 155622" src="https://github.com/user-attachments/assets/f37ec6e0-484b-4975-85e6-1388f5dc641e" />
