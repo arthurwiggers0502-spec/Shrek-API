@@ -1,0 +1,22 @@
+{
+    "name": "arthurwiggers/shrek-api",
+    "description": "API REST do universo Shrek",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Arthur Wiggers"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.8",
+        "vlucas/phpdotenv": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "ShrekApi\\": "src/"
+    }
+}
+}
